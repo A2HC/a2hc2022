@@ -13,21 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: XIII Workshop on Agents Applied in Healthcare (A2HC2021)
-email: stefano.mariani@unimore.it
+title: XIV Workshop on Agents Applied to Healthcare (A2HC2022)
+email: a2hc.org@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Home page for the XIII Workshop on Agents Applied in Healthcare (A2HC2021)
+  Home page for the XIV Workshop on Agents Applied to Healthcare (A2HC2022)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  A2HC2021
-repository: "A2HC2021/a2hc2021.github.io"
+github_username:  A2HC
+repository: "https://github.com/A2HC/a2hc2022"  # A2HC/a2hc2022.github.io, https://a2hc.github.io/a2hc2022/
 
 # Build settings
 markdown: kramdown
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.21.0"
-minimal_mistakes_skin: "mint" # aqua
+minimal_mistakes_skin: "contrast" # mint, aqua
 plugins:
   - jekyll-feed
   - jekyll-include-cache
