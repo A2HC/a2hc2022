@@ -1,14 +1,14 @@
 main:
-  - title: "Program"
-    url: /prog/
+  #- title: "Program"
+  #  url: /prog/
   - title: "Call for papers"
     url: /cfp/
-  - title: "Dates"
-    url: /dates/
-  - title: "Submission"
-    url: /sub/
-  - title: "Registration"
-    url: /registration/
+  #- title: "Dates"
+  #  url: /dates/
+  #- title: "Submission"
+  #  url: /sub/
+  #- title: "Registration"
+  #  url: /registration/
   - title: "Committees"
     url: /committees/
   - title: "Past editions"

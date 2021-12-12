@@ -2,7 +2,7 @@
 title: Posts archive
 permalink: /archive/
 classes: single
-author: A2hc2021
+author: a2hc
 ---
 
 {% for tag in site.tags %}

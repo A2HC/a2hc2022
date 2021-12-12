@@ -1,13 +1,13 @@
-A2hc2021:
-  name        : "A2HC2021 Organisers"
+a2hc:
+  name        : "A2HC Organisation"
   avatar      : "/assets/images/logo-img.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:stefano.mariani@unimore.it"
+      url: "mailto:a2hc.org@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://https://a2hc2021.github.io"
+      url: "https://a2hc.github.io/a2hc.website/"
 
 Sara Montagna:
   name        : "Sara Montagna"

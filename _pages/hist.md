@@ -2,9 +2,10 @@
 title: Workshop history
 permalink: /history/
 classes: wide
-author: A2hc2021
+author: a2hc
 ---
 
+- [XIII Workshop on Agents Applied in Healthcare (A2HC 2021)](https://a2hc2021.github.io) (held with AAMAS 2021). Publication on a Special Collection of the Journal of Medical Systems (Springer, IF: 3.058)
 - [International Workshop on Healthcare Intelligent Multi-Agent Systems (HIMAS 2020)](http://apice.unibo.it/xwiki/bin/view/HIMAS2020/WebHome) (held with AAMAS 2020). Publication on a Special Collection of the Journal of Medical Systems (Springer, IF: 3.058)
 - [XII Workshop on Agents Applied in Healthcare (A2HC 2019)](https://paginas.fe.up.pt/~a2hc19/topics.html) (held with PRIMA 2019)
 - [XI Workshop on Agents Applied in Health Care (A2HC 2018)](http://sots.brookes.ac.uk/~p0072382/ai4h2018/) (held with AAMAS, IJCAI and ICML 2018). Joined with other workshops into a single event: “The Joint Workshop of Artificial Intelligence in Health”. Publication on LNAI (Springer) 11326
