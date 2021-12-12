@@ -27,7 +27,7 @@ repository: "A2HC/a2hc2022.github.io"  # A2HC/a2hc2022.github.io, https://a2hc.g
 markdown: kramdown
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.21.0"
-minimal_mistakes_skin: "contrast" # mint, aqua
+minimal_mistakes_skin: "aqua" # mint, aqua
 plugins:
   - jekyll-feed
   - jekyll-include-cache
