@@ -74,7 +74,7 @@ teaser: /assets/images/logo-full.png
 
 author:
   name        : "Stefano Mariani"
-  avatar      : "/assets/images/sm.jpg"
+  avatar      : "/assets/images/me-face.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
