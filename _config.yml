@@ -17,8 +17,8 @@ title: XIV Workshop on Agents Applied to Healthcare (A2HC2022)
 email: a2hc.org@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Home page for the XIV Workshop on Agents Applied to Healthcare (A2HC2022)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/a2hc2022" # the subpath of your site, e.g. /blog
+url: "https://a2hc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  A2HC
 repository: "A2HC/a2hc2022.github.io"  # A2HC/a2hc2022.github.io, https://a2hc.github.io/a2hc2022/
