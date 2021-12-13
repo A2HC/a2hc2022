@@ -2,14 +2,14 @@
 title: Dates
 permalink: /dates/
 classes: wide
-author: A2hc2021
+author: a2hc
 ---
 
- * **(EXTENDED)** Paper submission: ~~February, 5th 2021~~**March, 1st 2021**
- * Authors notification: March, 29th 2021
- * Camera-ready submission: ~~April, 12th 2021~~April, 26th
+ * Paper submission: **January, 30th 2022**
+ * Authors notification: February, 27th 2022
+ * Camera-ready submission: March, 13th 2022
  * Revised and extended post-proceedings version[^1]: TBA
- * **Workshop date: May, 4th 2021**
- * Conference date: May, 3rd-7th 2021
+ * Workshop date: TBA **(fully online)**
+ * Conference date: May, 9th-10th 2022
  
-[^1]: see [Submission](/sub/) page
+[^1]: see [Submission](/sub/) page shortly coming
