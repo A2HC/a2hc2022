@@ -15,9 +15,9 @@ author: a2hc
 ## Program Committee
 
  - Diana Adamatti, Universidade Federal do Rio Grande
- - Mohamed Tahar Bennai, University of Boumerdès
- - Stefano Bromuri, Open University of the Netherlands
  - Angelo Croatti, Università di Bologna
+ - Esteban Guerrero, University of Vaasa 
+ - Helena Lindgren, Umeå University
  - Viviana Mascardi, Università degli Studi di Genova
  - Juan Carlos Nieves, Umeå University
  - Emilio Sullis, Università degli Studi di Torino 
