@@ -14,12 +14,11 @@ author: a2hc
 
 ## Program Committee
 
- - Diana Adamatti, Universidade Federal do Rio Grande
  - Angelo Croatti, Università di Bologna
  - Esteban Guerrero, University of Vaasa 
  - Helena Lindgren, Umeå University
  - Viviana Mascardi, Università degli Studi di Genova
  - Juan Carlos Nieves, Umeå University
  - Valeria Seidita, Università degli Studi di Parlermo
- - Emilio Sullis, Università degli Studi di Torino 
+ - Emilio Sulis, Università degli Studi di Torino 
  - Franco Zambonelli, Università di Modena e Reggio Emilia
