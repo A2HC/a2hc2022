@@ -21,6 +21,7 @@ A soft review process will check this requirement.
 
 Papers must respect the submission guidelines and template required for the publication in JOMS as available at:
 [http://www.springer.com/journal/10916/submission-guidelines](https://www.springer.com/journal/10916/submission-guidelines).
+It is mandatory to use the **LaTex template** available: [https://www.springernature.com/gp/authors/campaigns/latex-author-support](https://www.springernature.com/gp/authors/campaigns/latex-author-support)
 
 ## Review process
 
