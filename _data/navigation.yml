@@ -5,8 +5,8 @@ main:
     url: /cfp/
   - title: "Dates"
     url: /dates/
-  #- title: "Submission"
-  #  url: /sub/
+  - title: "Submission"
+    url: /sub/
   #- title: "Registration"
   #  url: /registration/
   - title: "Committees"
