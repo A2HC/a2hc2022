@@ -12,17 +12,20 @@ Papers submitted to A2HC 2022 must describe original research results and must n
 
 ## Publication venue
 
-All accepted and presented papers will be published in a [**Topical Collection of the Journal of Medical Systems**](http://www.springer.com/journal/10916), Springer, I.F. 4.460 (2020).
+All accepted and presented papers will be published in a selected international Journal, that organisers are currently evaluating.
+<!--[**Topical Collection of the Journal of Medical Systems**](http://www.springer.com/journal/10916), Springer, I.F. 4.460 (2020).-->
 
 For publication, it is **required** that authors carefully revise their manuscripts according to both the reviewers' comments received while submitting to the workshop, and the comments received from the audience during the workshop.
 A soft review process will check this requirement.
 
+A **selection** of the best papers will be invited to a [**Special Issue of Computer Methods and Programs in Biomedicine**](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine), Elsevier, I.F. 5.428.
+
 ## Formatting
 
-Papers must respect the submission guidelines and template required for the publication in JOMS as available at:
-[http://www.springer.com/journal/10916/submission-guidelines](https://www.springer.com/journal/10916/submission-guidelines).
+Papers must respect the submission guidelines and template required for the publication in CMPB as available at:
+[https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions](https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions).
 
-It is mandatory to use the **LaTex template** available: [https://www.springernature.com/gp/authors/campaigns/latex-author-support](https://www.springernature.com/gp/authors/campaigns/latex-author-support)
+It is mandatory to use the **LaTex template** therein available.
 
 ## Review process
 
