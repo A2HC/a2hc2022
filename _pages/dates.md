@@ -5,7 +5,7 @@ classes: wide
 author: a2hc
 ---
 
- * Paper submission: **March 4th, 2022**
+ * Paper submission: **March 4th, 2022** (strict)
  * Authors notification: March 28th, 2022
  * Camera-ready submission: April 14th, 2022
  * Revised and extended post-proceedings version[^1]: Computer Methods and Programs in Biomedicine, Elsevier (IF: 5.428, **Q1** in "Computer Science Applications" and "Software")
