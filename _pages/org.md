@@ -14,6 +14,7 @@ author: a2hc
 
 ## Program Committee
 
+ - Davide Calvaresi, University of Applied Sciences Western Switzerland
  - Angelo Croatti, Università di Bologna
  - Esteban Guerrero, University of Vaasa 
  - Helena Lindgren, Umeå University
