@@ -12,4 +12,4 @@ author: a2hc
  * Workshop date: TBA **(fully online)**
  * Main conference (AAMAS) dates: May, 9th-13th 2022
  
-[^1]: see [Submission](/sub/) page
+[^1]: see [Submission](/a2hc2022/sub/) page
